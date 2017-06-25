@@ -1,4 +1,4 @@
-# scrapy_whaley
+# Scrapy_Whaley
 
 1、The subject for these codes is crawling the website of the Whaley's projector in Tmall to obtain the its items.
 
