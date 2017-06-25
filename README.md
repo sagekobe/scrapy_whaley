@@ -10,7 +10,7 @@
 4、The methods used here mainly include  'Scrapy + Sqlalchemy + Mysql'.
 
 5、Maybe it's a simplest frame structure, no special function inluded. The next steps are to built the method to break the 
-   anti-crawling ,  following up the next pages and so on.
+   anti-crawling ,  follow up the next pages and so on.
    
 
 
