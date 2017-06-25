@@ -9,7 +9,7 @@ import scrapy
 
 
 class WhaleywtItem(scrapy.Item):
-    # define the fields for your item here like:
+    # define the fields :
     sales = scrapy.Field()
     comments_number = scrapy.Field()
     price = scrapy.Field()
