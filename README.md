@@ -9,9 +9,13 @@
 
 4、The methods used here mainly include  'Scrapy + Sqlalchemy + Mysql'.
 
-5、Maybe it's a simplest frame structure, no special function inluded. The next steps are to built the method to break the 
+5、There is a file named 'whayelwt_comments.py'.  This file is used to crawl the products' comments for text analysis.It's a independent      file that don't include into the Scrapy structure.
+
+6、Maybe it's a simplest frame structure, no special function inluded. The next steps are to built the method to break the 
    anti-crawling , follow up the next pages and so on.
    
+
+   
 
 
 
